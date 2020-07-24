@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+<meta name="renderer" content="webkit" />
+<title>世界杯还有10多天就开始了，那些预测类的币会表演吗？ - 币问 - 能赚钱的问答平台</title>
+<meta name="keywords" content="世界杯,10,多天,预测,币会,表演" />
+<meta name="description" content="世界杯还有10多天就开始了，那些预测类的币会表演吗？ - "  />
+<base href="https://www.bitask.org/" /><!--[if IE]></base><![endif]-->
+<link href="https://www.bitask.org/static/css/default/img/favicon.ico?v=20160523" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="https://www.bitask.org/static/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="https://www.bitask.org/static/css/icon.css" />
+
+<link href="https://www.bitask.org/static/css/default/common.css?v=20160523" rel="stylesheet" type="text/css" />
+<link href="https://www.bitask.org/static/css/default/link.css?v=20160523" rel="stylesheet" type="text/css" />
+<link href="https://www.bitask.org/static/js/plug_module/style.css?v=20160523" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript">
+	var _18582E9CF9B11F693B1888F6BF2EBB3E="";
+	var G_POST_HASH=_18582E9CF9B11F693B1888F6BF2EBB3E;
+	var G_INDEX_SCRIPT = "";
+	var G_SITE_NAME = "币问 - 能赚钱的问答平台";
+	var G_BASE_URL = "https://www.bitask.org";
+	var G_STATIC_URL = "https://www.bitask.org/static";
+	var G_UPLOAD_URL = "https://www.bitask.org/uploads";
+	var G_USER_ID = "";
+	var G_USER_NAME = "";
+	var G_UPLOAD_ENABLE = "N";
+	var G_UNREAD_NOTIFICATION = 0;
+	var G_NOTIFICATION_INTERVAL = 100000;
+	var G_CAN_CREATE_TOPIC = "";
+	var G_ADVANCED_EDITOR_ENABLE = "Y";
+	var FILE_TYPES = "jpg,jpeg,png,gif,zip,rar,7z";
+
+
+	</script>
+<script src="https://www.bitask.org/static/js/jquery.2.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/jquery.form.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/plug_module/plug-in_module.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/aws.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/aw_template.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/app.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/editor/ckeditor/ckeditor.js?v=20160523" type="text/javascript"></script>
+<script src="https://www.bitask.org/static/js/editor/ckeditor/adapters/jquery.js?v=20160523" type="text/javascript"></script>
+<script type="text/javascript" src="https://www.bitask.org/static/js/compatibility.js"></script>
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="https://www.bitask.org/static/js/respond.js"></script>
+<![endif]-->
+
+
+    <!-- GrowingIO Analytics code version 2.1 -->
+    <!-- Copyright 2015-2017 GrowingIO, Inc. More info available at http://www.growingio.com -->
+
+    <script type='text/javascript'>
+        !function(e,t,n,g,i){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},n=t.createElement("script"),tag=t.getElementsByTagName("script")[0],n.async=1,n.src=('https:'==document.location.protocol?'https://':'http://')+g,tag.parentNode.insertBefore(n,tag)}(window,document,"script","assets.growingio.com/2.1/gio.js","gio");
+        gio('init','9d51dc32796ff142', {});
+
+        //custom page code begin here
+
+        //custom page code end here
+
+        gio('send');
+
+    </script>
+
+    <!-- End GrowingIO Analytics code version: 2.1 -->
+
+    <!-- zhugeio start-->
+
+    <script type="text/javascript">
+        window.zhuge = window.zhuge || [];window.zhuge.methods = "_init debug identify track trackLink trackForm page".split(" ");
+        window.zhuge.factory = function(b) {return function() {var a = Array.prototype.slice.call(arguments);a.unshift(b);
+            window.zhuge.push(a);return window.zhuge;}};for (var i = 0; i < window.zhuge.methods.length; i++) {
+            var key = window.zhuge.methods[i];window.zhuge[key] = window.zhuge.factory(key);}window.zhuge.load = function(b, x) {
+            if (!document.getElementById("zhuge-js")) {var a = document.createElement("script");var verDate = new Date();
+                var verStr = verDate.getFullYear().toString()+ verDate.getMonth().toString() + verDate.getDate().toString();
+                a.type = "text/javascript";a.id = "zhuge-js";a.async = !0;a.src = (location.protocol == 'http:' ? "http://sdk.zhugeio.com/zhuge.min.js?v=" : 'https://zgsdk.zhugeio.com/zhuge.min.js?v=') + verStr;
+                a.onerror = function(){window.zhuge.identify = window.zhuge.track = function(ename, props, callback){if(callback && Object.prototype.toString.call(callback) === '[object Function]')callback();};};
+                var c = document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a, c);window.zhuge._init(b, x)}};
+        window.zhuge.load('623fc551f596440694cbc3affe11ff43');//配置应用的AppKey
+    </script>
+    <!-- zhugeio end-->
+</head>
+<noscript unselectable="on" id="noscript">
+    <div class="aw-404 aw-404-wrap container">
+        <img src="https://www.bitask.org/static/common/no-js.jpg">
+        <p>你的浏览器禁用了JavaScript, 请开启后刷新浏览器获得更好的体验!</p>
+    </div>
+</noscript>
+<body>
+	<div class="aw-top-menu-wrap">
+		<div class="container">
+			<!-- logo -->
+			<div class="aw-logo hidden-xs">
+				<a href="https://www.bitask.org"></a>
+			</div>
+			<!-- end logo -->
+			<!-- 搜索框 -->
+			<div class="aw-search-box  hidden-xs hidden-sm">
+				<form class="navbar-search" action="https://www.bitask.org/search/" id="global_search_form" method="post">
+					<input class="form-control search-query" type="text" placeholder="搜索问题、话题或人" autocomplete="off" name="q" id="aw-search-query" />
+					<span title="搜索" id="global_search_btns" onClick="$('#global_search_form').submit();"><i class="icon icon-search"></i></span>
+					<div class="aw-dropdown">
+						<div class="mod-body">
+							<p class="title">输入关键字进行搜索</p>
+							<ul class="aw-dropdown-list collapse"></ul>
+							<p class="search"><span>搜索:</span><a onClick="$('#global_search_form').submit();"></a></p>
+						</div>
+						<div class="mod-footer">
+							<a href="https://www.bitask.org/publish" onClick="$('#header_publish').click();" class="pull-right btn btn-mini btn-success publish">发起问题</a>
+						</div>
+					</div>
+				</form>
+			</div>
+			<!-- end 搜索框 -->
+			<!-- 导航 -->
+			<div class="aw-top-nav navbar">
+				<div class="navbar-header">
+				  <button  class="navbar-toggle pull-left">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+				</div>
+				<nav role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="https://www.bitask.org" class=""><i class="icon icon-list"></i> 问答</a></li>
+
+						<!-- <li><a href="https://www.bitask.org/question/" class="active">问题</a></li>-->
+
+						<li><a href="https://www.bitask.org/article/" class=""><i class="icon icon-log"></i>文章</a></li>
+						
+						<!--<li><a href="https://www.bitask.org/column/" class=""><i class="icon icon-contact"></i>专栏</a></li>-->
+
+
+						
+						<li><a href="https://www.bitask.org/topic/" class=""><i class="icon icon-topic"></i> 话题</a></li>
+
+						
+												<li><a href="https://www.bitask.org/help/" class=""><i class="icon icon-bulb"></i> 帮助</a></li>
+											<!--<li>-->
+						<!--<a style="font-weight:bold;">· · ·</a>-->
+						<!--<div class="dropdown-list pull-right">-->
+							<!--<ul id="extensions-nav-list">-->
+								<!---->
+								<!---->
+							<!--</ul>-->
+						<!--</div>-->
+					<!--</li>-->
+				  </ul>
+				</nav>
+			</div>
+			<!-- end 导航 -->
+			<!-- 用户栏 -->
+			<div class="aw-user-nav">
+				<!-- 登陆&注册栏 -->
+									<a class="login btn btn-normal btn-primary" href="https://www.bitask.org/account/login/">登录</a>
+					<a class="register btn btn-normal btn-success" href="https://www.bitask.org/account/register/">注册</a>								<!-- end 登陆&注册栏 -->
+			</div>
+			<!-- end 用户栏 -->
+			<!-- 发起 -->
+						<!-- end 发起 -->
+		</div>
+	</div>
+	
+<script type="text/javascript" src="https://www.bitask.org/static/js/ueditor/ueditor.config.js?20170821"></script>
+<script type="text/javascript" src="https://www.bitask.org/static/js/ueditor/ueditor.all.js?20170821"></script>
+<script type="text/javascript" src="https://www.bitask.org/static/js/ueditor/lang/zh-cn/zh-cn.js?20170821"></script>
+<style>
+	.bdshare-button-style0-16 a{
+		margin: 6px 15px 6px 10px;
+	}
+	.bd_weixin_popup .bd_weixin_popup_main {
+		padding: 10px 10px;
+	}
+</style>
+<div class="aw-container-wrap">
+		<div class="container">
+		<div class="row">
+			<div class="aw-content-wrap clearfix">
+				<div class="col-sm-12 col-md-9 aw-main-content">
+					<!-- 话题推荐bar -->
+										<!-- 话题推荐bar -->
+					<!-- 话题bar -->
+					<div class="aw-mod aw-topic-bar" id="question_topic_editor" data-type="question" data-id="9424">
+						<div class="tag-bar clearfix">
+														<span class="topic-tag" data-id="90">
+								<a href="https://www.bitask.org/topic/%E5%8C%BA%E5%9D%97%E9%93%BE" class="text">区块链</a>
+							</span>
+														<span class="topic-tag" data-id="1238">
+								<a href="https://www.bitask.org/topic/%E4%B8%96%E7%95%8C%E6%9D%AF" class="text">世界杯</a>
+							</span>
+							
+													</div>
+					</div>
+					<!-- end 话题bar -->
+					<div class="aw-mod aw-question-detail aw-item">
+						<div class="mod-head">
+							<h1>
+								世界杯还有10多天就开始了，那些预测类的币会表演吗？							</h1>
+							<input type="hidden" id="share_content" value=""/>
+							<input type="hidden" id="share_url" value=""/>
+							<input type="hidden" id="share_title" value=""/>
+													</div>
+						<div class="mod-body">
+							<div class="content markitup-box">
+								
+															</div>
+																				</div>
+						<div class="mod-footer">
+							<div class="meta">
+								<span class="text-color-999">2018-06-02</span>
+
+								<a data-id="9424" data-type="question" class="aw-add-comment text-color-999 " data-comment-count="0" data-first-click="hide"><i class="icon icon-comment"></i>添加评论</a>
+
+								
+																								
+
+								<!---->
+								<div class="pull-right more-operate">
+									<!---->
+
+									<!-- <a class="text-color-999"  onclick="AWS.dialog('shareOut', {item_type:'question', item_id:9424});"> -->
+									<!--<a id="reward" onclick="initRewardBox()" >-->
+									<!--&yen; 打赏-->
+									<!--</a>-->
+									<!--<div class="totips" id="reward-box" style="display:none;position: fixed; z-index:99999;left:50%;top:30%;margin-left:-400px;margin-top:10px;">-->
+
+										<!--<div class="outbox" style="border: 1px solid #dddddd;">-->
+											<!--<h2><b>转账</b><i class="reward-clone"><img style="height:16px;position: static;" src="../../static/common/close2.png"></i></h2>-->
+											<!--<form method="post" id="reward_code" onsubmit="return false;" style="text-align: -webkit-center;">-->
+												<!--<input name="uid" type="hidden"  value=""/>-->
+												<!--转账给：<input name="to_name" style="margin: 10px 35px 5px 5px;" placeholder="请输入转账接收方的用户名" value=""/>-->
+												<!--<div class="outtip">转账金额：<input name="trxamt" id="moneyNumber" style="line-height:0px;margin: 5px 50px 10px 5px;" type="tel" onkeyup="(this.v=function(){this.value=this.value.replace(/[^0-9-.]+/,'');}).call(this)" onblur="this.v();"    placeholder="请输入转账金额" value=""/>-->
+													<!--</p>-->
+												<!--</div>-->
+												<!--<div class="fx_but"><input class="blue" name="button" type="submit" onclick="reward_code();"  value="确定" /><input class="gray reward-clone" name="" type="button" value="取消" /></div>-->
+											<!--</form>-->
+											<!--<div id="reward_success" style='font-size: 24px;color: green;text-align: center'>转账成功</div>-->
+										<!--</div>-->
+									<!--</div>-->
+
+
+									<a class="text-color-999 dropdown-toggle" data-toggle="dropdown" id="question_share">
+										<i class="icon icon-share"></i>分享									</a>
+									<!--<div aria-labelledby="dropdownMenu" role="menu" class="aw-dropdown shareout pull-right">
+										<ul class="aw-dropdown-list">
+											<li><a onclick="AWS.User.share_out({webid: 'tsina', content: $(this).parents('.aw-question-detail').find('.markitup-box')});"><i class="icon icon-weibo"></i> 微博</a></li>
+											<li><a onclick="AWS.User.share_out({webid: 'qzone', content: $(this).parents('.aw-question-detail')});"><i class="icon icon-qzone"></i> QZONE</a></li>
+											<li><a onclick="AWS.User.share_out({webid: 'weixin', content: $(this).parents('.aw-question-detail')});"><i class="icon icon-wechat"></i> 微信</a></li>
+										</ul>
+									</div>-->
+									<div class="bdsharebuttonbox aw-dropdown shareout pull-right">
+										<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+										<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+										<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+									</div>
+																	</div>
+							</div>
+						</div>
+						<!-- 站内邀请 -->
+						<div class="aw-invite-box collapse">
+							<div class="mod-head clearfix">
+								<div class="search-box pull-left">
+									<input id="invite-input" class="form-control" type="text"  placeholder="搜索你想邀请的人..."/>
+									<div class="aw-dropdown">
+										<p class="title">没有找到相关结果</p>
+										<ul class="aw-dropdown-list"></ul>
+									</div>
+									<i class="icon icon-search"></i>
+								</div>
+								<div class="invite-list pull-left collapse">
+									已邀请:
+																	</div>
+							</div>
+													</div>
+						<!-- end 站内邀请 -->
+						<!-- 相关链接 -->
+						<div class="aw-question-related-box collapse">
+							<form action="https://www.bitask.org/publish/ajax/save_related_link/" method="post" onsubmit="return false" id="related_link_form">
+								<div class="mod-head">
+									<h2>与内容相关的链接</h2>
+								</div>
+								<div class="mod-body clearfix">
+									<input type="hidden" name="item_id" value="9424" />
+									<input type="text" class="form-control pull-left" name="link" value="" />
+
+									<a onclick="AWS.ajax_post($('#related_link_form'));" class="pull-left btn btn-success">提交</a>
+								</div>
+							</form>
+						</div>
+						<!-- end 相关链接 -->
+					</div>
+
+										<div class="aw-mod aw-question-comment">
+						<div class="mod-head">
+							<ul class="nav nav-tabs aw-nav-tabs active">
+								
+								<h2 class="hidden-xs">2 个回复</h2>
+							</ul>
+						</div>
+						<div class="mod-body aw-feed-list">
+														<div class="aw-item" uninterested_count="0" force_fold="0" id="answer_list_73882">
+								<div class="mod-head">
+																		<a class="anchor" name="answer_73882"></a>
+									<!-- 用户头像 -->
+									<a class="aw-user-img aw-border-radius-5" href="https://www.bitask.org/people/%E7%A7%A6%E7%A9%86%E5%85%AC" data-id="15013"><img src="https://www.bitask.org/uploads/avatar/000/01/50/13_avatar_mid.jpg" alt="" /></a>									<!-- end 用户头像 -->
+									<div class="title">
+										<p>
+																						<a class="aw-user-name" href="https://www.bitask.org/people/%E7%A7%A6%E7%A9%86%E5%85%AC" data-id="15013">秦穆公</a>
+																																												 - <span class="text-color-999">比特币中期玩家</span>																																</p>
+										<p class="text-color-999 aw-agree-by collapse">
+											赞同来自:
+
+																					</p>
+									</div>
+								</div>
+								<div class="mod-body clearfix">
+									<!-- 评论内容 -->
+									<div class="markitup-box question-comment">
+										很多币已经表演过了，我觉得当世界杯开始的时候反而是利好出尽									</div>
+
+									
+																		<!-- end 评论内容 -->
+								</div>
+								<div class="mod-footer">
+									<!-- 社交操作 -->
+									<div class="meta clearfix" id="social_operate">
+										<span class="text-color-999 pull-right">2018-06-02</span>
+										<!-- 投票栏 -->
+										<span class="operate">
+												<a class="agree  disabled" ><i data-placement="right" title="" data-toggle="tooltip" class="icon icon-agree" data-original-title="赞同回复"></i> <b class="count">0</b></a>
+																						</span>
+
+										<!-- end 投票栏 -->
+										<span class="operate">
+												<a class="aw-add-comment" data-id="73882" data-type="answer" data-comment-count="0" data-first-click="collapse" href="javascript:;"><i class="icon icon-comment"></i> 0</a>
+											</span>
+										<span class="operates">
+																				</span>
+											<!-- 可显示/隐藏的操作box -->
+										<div class="more-operate">
+											
+											<!---->
+											<div class="btn-group pull-left">
+												<a class="text-color-999 dropdown-toggle" data-name="https%3A%2F%2Fwww.bitask.org%2F%3F%2Fquestion%2Fquestion_share%2Fquestion_id-9424__answer_id-73882"
+												   data-id="很多币已经表演过了，我觉得当世界杯开始的时候反而是利好出尽" data-toggle="dropdown" onclick="question_comment_share(this)">
+													<i class="icon icon-share"></i> 分享												</a>
+
+												<!--<div aria-labelledby="dropdownMenu" role="menu" class="aw-dropdown shareout pull-right">
+													<ul class="aw-dropdown-list">
+														<li><a onclick="AWS.User.share_out({webid: 'tsina', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-weibo"></i> 微博</a></li>
+														<li><a onclick="AWS.User.share_out({webid: 'qzone', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-qzone"></i> QZONE</a></li>
+														<li><a onclick="AWS.User.share_out({webid: 'weixin', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-wechat"></i> 微信</a></li>
+                                                        <li style="height: 150px;">
+                                                            <i class="icon icon-wechat"></i>
+                                                            扫一扫分享                                                            <div style="height: 100px; width: 100px;">
+                                                                <img width="100" height="100" src="https://www.bitask.org/?/question/qrcode/url-https%3A%2F%2Fwww.bitask.org%2F%3F%2Fquestion%2Fquestion_share%2Fquestion_id-9424__answer_id-73882" />
+                                                            </div>
+                                                        </li>
+													</ul>
+												</div>-->
+												<div class="bdsharebuttonbox aw-dropdown shareout pull-right">
+													<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+													<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+													<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+												</div>
+											</div>
+											<!---->
+										</div>
+										<!-- end 可显示/隐藏的操作box -->
+
+									</div>
+									<!-- end 社交操作 -->
+								</div>
+							</div>
+														<div class="aw-item" uninterested_count="0" force_fold="0" id="answer_list_73884">
+								<div class="mod-head">
+																		<a class="anchor" name="answer_73884"></a>
+									<!-- 用户头像 -->
+									<a class="aw-user-img aw-border-radius-5" href="https://www.bitask.org/people/%E8%82%A9%E8%86%80" data-id="14945"><img src="https://www.bitask.org/uploads/avatar/000/01/49/45_avatar_mid.jpg" alt="" /></a>									<!-- end 用户头像 -->
+									<div class="title">
+										<p>
+																						<a class="aw-user-name" href="https://www.bitask.org/people/%E8%82%A9%E8%86%80" data-id="14945">肩膀</a>
+																																																																												</p>
+										<p class="text-color-999 aw-agree-by collapse">
+											赞同来自:
+
+																					</p>
+									</div>
+								</div>
+								<div class="mod-body clearfix">
+									<!-- 评论内容 -->
+									<div class="markitup-box question-comment">
+										<p>应该在世界杯之前会有一波，估计真正到世界杯开赛的时候利好就已经用完啦，建议世界杯前5天把预测类的币卖掉。</p>									</div>
+
+									
+																		<!-- end 评论内容 -->
+								</div>
+								<div class="mod-footer">
+									<!-- 社交操作 -->
+									<div class="meta clearfix" id="social_operate">
+										<span class="text-color-999 pull-right">2018-06-02</span>
+										<!-- 投票栏 -->
+										<span class="operate">
+												<a class="agree  disabled" ><i data-placement="right" title="" data-toggle="tooltip" class="icon icon-agree" data-original-title="赞同回复"></i> <b class="count">0</b></a>
+																						</span>
+
+										<!-- end 投票栏 -->
+										<span class="operate">
+												<a class="aw-add-comment" data-id="73884" data-type="answer" data-comment-count="0" data-first-click="collapse" href="javascript:;"><i class="icon icon-comment"></i> 0</a>
+											</span>
+										<span class="operates">
+																				</span>
+											<!-- 可显示/隐藏的操作box -->
+										<div class="more-operate">
+											
+											<!---->
+											<div class="btn-group pull-left">
+												<a class="text-color-999 dropdown-toggle" data-name="https%3A%2F%2Fwww.bitask.org%2F%3F%2Fquestion%2Fquestion_share%2Fquestion_id-9424__answer_id-73884"
+												   data-id="应该在世界杯之前会有一波，估计真正到世界杯开赛的时候利好就已经用完啦，建议世界杯前5天把预测类的币卖掉。" data-toggle="dropdown" onclick="question_comment_share(this)">
+													<i class="icon icon-share"></i> 分享												</a>
+
+												<!--<div aria-labelledby="dropdownMenu" role="menu" class="aw-dropdown shareout pull-right">
+													<ul class="aw-dropdown-list">
+														<li><a onclick="AWS.User.share_out({webid: 'tsina', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-weibo"></i> 微博</a></li>
+														<li><a onclick="AWS.User.share_out({webid: 'qzone', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-qzone"></i> QZONE</a></li>
+														<li><a onclick="AWS.User.share_out({webid: 'weixin', title: $(this).parents('.aw-item').find('.markitup-box').text()});"><i class="icon icon-wechat"></i> 微信</a></li>
+                                                        <li style="height: 150px;">
+                                                            <i class="icon icon-wechat"></i>
+                                                            扫一扫分享                                                            <div style="height: 100px; width: 100px;">
+                                                                <img width="100" height="100" src="https://www.bitask.org/?/question/qrcode/url-https%3A%2F%2Fwww.bitask.org%2F%3F%2Fquestion%2Fquestion_share%2Fquestion_id-9424__answer_id-73884" />
+                                                            </div>
+                                                        </li>
+													</ul>
+												</div>-->
+												<div class="bdsharebuttonbox aw-dropdown shareout pull-right">
+													<a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+													<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+													<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+												</div>
+											</div>
+											<!---->
+										</div>
+										<!-- end 可显示/隐藏的操作box -->
+
+									</div>
+									<!-- end 社交操作 -->
+								</div>
+							</div>
+																				</div>
+						<div class="mod-footer">
+														<div class="aw-load-more-content collapse" id="load_uninterested_answers">
+								<span class="text-color-999 aw-alert-box text-color-999" href="javascript:;" tabindex="-1" onclick="AWS.alert('被折叠的回复是被你或者被大多数用户认为没有帮助的回复');">为什么被折叠?</span>
+								<a href="javascript:;" class="aw-load-more-content"><span class="hide_answers_count">0</span> 个回复被折叠</a>
+							</div>
+
+							<div class="collapse aw-feed-list" id="uninterested_answers_list"></div>
+													</div>
+
+											</div>
+										<!-- end 问题详细模块 -->
+
+										<!-- 回复编辑器 -->
+					<div class="aw-mod aw-replay-box question">
+						<a name="answer_form"></a>
+												<p align="center">要回复问题请先<a href="https://www.bitask.org/account/login/">登录</a>或<a href="https://www.bitask.org/account/register/">注册</a></p>
+											</div>
+					<!-- end 回复编辑器 -->
+									</div>
+				<!-- 侧边栏 -->
+				<div class="col-md-3 aw-side-bar hidden-xs hidden-sm">
+					<!-- 发起人 -->
+										<div class="aw-mod">
+						<div class="mod-head">
+							<h3>发起人</h3>
+						</div>
+						<div class="mod-body">
+							<dl>
+								<dt class="pull-left aw-border-radius-5">
+									<a href="https://www.bitask.org/people/dudu886"><img alt="dudufather886" src="https://www.bitask.org/uploads/avatar/000/00/42/45_avatar_mid.jpg" /></a>
+								</dt>
+								<dd class="pull-left">
+									<a class="aw-user-name" href="https://www.bitask.org/people/dudu886" data-id="4245">dudufather886</a>
+																											<p></p>
+								</dd>
+							</dl>
+						</div>
+					</div>
+										<!-- end 发起人 -->
+
+					
+					
+										<!-- 相关问题 -->
+					<div class="aw-mod">
+						<div class="mod-head">
+							<h3>相关问题</h3>
+						</div>
+						<div class="mod-body font-size-12">
+							<ul>
+																<li><a href="https://www.bitask.org/question/4978">开个预测贴娱乐下，写下你看好币的今年最高价格？</a></li>
+																<li><a href="https://www.bitask.org/question/7215">BTC已在$8200-$8000之间游走很多天了，到底它之后是升还是跌？</a></li>
+																<li><a href="https://www.bitask.org/question/5668">假如基于YOYOW做一个世界杯竞猜游戏，你打算怎么设计才好玩？</a></li>
+																<li><a href="https://www.bitask.org/question/4942">预测一下，YOYOW继币问和宝宝问之后，推出的第三个媒体平台是什么问？</a></li>
+																<li><a href="https://www.bitask.org/question/4636">这轮熊市中是否会有6月世界杯行情？</a></li>
+																<li><a href="https://www.bitask.org/question/4635">预测类项目会是区块链界第一个杀手级应用吗？</a></li>
+																<li><a href="https://www.bitask.org/question/5184">行情预测帖：2018年4月25日纷纷下跌，明天是回调上涨还是继续下跌呢？聊聊你的操作？</a></li>
+																<li><a href="https://www.bitask.org/question/8328">大胆预测yoyow近期会跌到3毛左右，你认为呢？</a></li>
+																<li><a href="https://www.bitask.org/question/3859">币问开放注册，来预测一下接下来会出现的最大问题是什么？</a></li>
+																<li><a href="https://www.bitask.org/question/6124">今天下午这周的奖励就要到了吧，大家预测自己的收益是多少？</a></li>
+																<li><a href="https://www.bitask.org/question/8071">为何所有历史规律预测故意不提2014年？</a></li>
+															</ul>
+						</div>
+					</div>
+					<!-- end 相关问题 -->
+					
+					<!-- 问题状态 -->
+					<div class="aw-mod question-status">
+						<div class="mod-head">
+							<h3>问题状态</h3>
+						</div>
+						<div class="mod-body">
+							<ul>
+								<li>最新活动: <span class="aw-text-color-blue">2018-06-02 22:05</span></li>
+								<li>浏览: <span class="aw-text-color-blue">45</span></li>
+								<li>关注: <span class="aw-text-color-blue">2</span> 人</li>
+
+								<li class="aw-border-radius-5" id="focus_users"></li>
+							</ul>
+						</div>
+					</div>
+					<!-- end 问题状态 -->
+				</div>
+				<!-- end 侧边栏 -->
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+    var ATTACH_ACCESS_KEY = '18582e9cf9b11f693b1888f6bf2ebb3e';
+    var ITEM_IDS = '';
+    var COMMENT_UNFOLD = '';
+    var QUESTION_ID = 9424;
+    var UNINTERESTED_COUNT = 5;
+    var ANSWER_EDIT_TIME = 0;
+    var USER_ANSWERED = '';
+    var UPLOAD_ENABLE = 'N';
+    var ANSWER_TYPE = 'answer';
+</script>
+
+<script>
+    var $editor;
+    var markdownIsSave = false;
+    var markdownContent;
+    function fuwenben(){
+        $('.fuwenben').show();
+        $('.marktext').hide();
+        $("#text_fuwenben_radio").attr('checked',true);
+        $("#text_markdown_radio").attr('checked',false);
+    }
+    function textmarkdown(){
+        $('.fuwenben').hide();
+        $('.marktext').show();
+        $("#text_fuwenben_radio").attr('checked',false);
+        $("#text_markdown_radio").attr('checked',true);
+    }
+
+    function submitContent(){
+        if($('#text_fuwenben_radio').attr('checked')=='checked'){
+            $('#markdownFrameHide').attr('name','answer');
+            $('.fuwenben').attr('name','answer_content');
+            AWS.ajax_post($('#answer_form'), AWS.ajax_processer, 'reply_question');
+        }else{
+            $('.fuwenben').attr('name','answer');
+            $('#markdownFrameHide').attr('name','answer_content');
+            if(markdownIsSave == true) {
+                $('#markdownFrameHide').html(markdownContent);
+                AWS.ajax_post($('#answer_form'), AWS.ajax_processer, 'reply_question');
+            }else{
+                AWS.alert('请点击保存');
+            }
+        }
+    }
+$("#question_share").click(function(){
+    $('#share_content').val('世界杯还有10多天就开始了，那些预测类的币会表演吗？');
+    $('#share_title').val('世界杯还有10多天就开始了，那些预测类的币会表演吗？');
+    $('#share_url').val(G_BASE_URL + '/question/9424');
+
+});
+function question_comment_share(obj){
+    $('#share_content').val($(obj).attr("data-id"));
+    $('#share_title').val($(obj).attr("data-id"));
+    $('#share_url').val($(obj).attr("data-name"));
+}
+window._bd_share_config={
+    "common":{
+        bdText : '世界杯还有10多天就开始了，那些预测类的币会表演吗？',
+        bdDesc : '世界杯还有10多天就开始了，那些预测类的币会表演吗？',
+        bdUrl : G_BASE_URL + '/question/9424',
+		onBeforeClick:function(cmd,config){
+            return {bdText:$('#share_content').val(),
+			        bdDesc:$('#share_title').val(),
+				    bdUrl:$('#share_url').val()
+			}
+
+        }
+        // bdPic : ''
+        // bdPic : 'https://www.bitask.org/static/common/pc-poster.png'
+    },
+    "share":{}
+};
+with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src=document.location.protocol + '//'+ window.location.host +'/bdimgshare/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+<script type="text/javascript" src="https://www.bitask.org/static/js/app/question_detail.js"></script>
+
+<div class="aw-footer-wrap">
+	<div class="aw-footer">
+		Copyright © 2018,All Rights Reserved</span>
+
+            <span class="hidden-xs">
+              
+              
+              Powered By 
+             
+              <a href="http://www.wecenter.com/?copyright" target="blank">WeCenter
+              
+              
+              3.1.9              
+              
+              </a></span>
+      
+			</div>
+</div>
+
+<a class="aw-back-top hidden-xs" href="javascript:;" onclick="$.scrollTo(1, 600, {queue:true});"><i class="icon icon-up"></i></a>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?428cae477f1ead65c9fbfdb92d838df3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- DO NOT REMOVE -->
+<div id="aw-ajax-box" class="aw-ajax-box"></div>
+
+<div style="display:none;" id="__crond">
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('#__crond').html(unescape('%3Cimg%20src%3D%22' + G_BASE_URL + '/crond/run/1527948498%22%20width%3D%221%22%20height%3D%221%22%20/%3E'));
+		});
+	</script>
+</div>
+
+<!-- Escape time: 0.083194971084595 --><!-- / DO NOT REMOVE -->
+
+</body>
+</html>
